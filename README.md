@@ -25,4 +25,4 @@ And type: ifconfig.
 **If you found a bug or have a good idea make a issue or a pull request.**
 
 ## License
-This project is under [GPL License](LICENSE).
+This project is under [GNU v3.0 License](LICENSE).
