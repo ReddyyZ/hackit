@@ -15,7 +15,7 @@ See this video to see how to install.
 ## How to see the Machine IP
 Login as:
 
-User - newuser
+User - newuser                                                                                                                          
 Pass - password
 
 And type: ifconfig.
