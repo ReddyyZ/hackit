@@ -12,7 +12,7 @@
 First download the [Vmware](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html). Then download the [Virtual Machine](https://drive.google.com/drive/folders/1gkEku3bf6uX_KPNKwhBXn9Vx_TTdgCdN?usp=sharing) and import this.
 
 See this video to see how to install.
-[![Installing HackIT CTF Machine]()](asdad)
+[![Installing HackIT CTF Machine](.youtube_thumb/thumb.png)](https://www.youtube.com/watch?v=i8KQEczPyNI)
 
 ## How to see the Machine IP
 Login as:
